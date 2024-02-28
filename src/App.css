@@ -1,0 +1,157 @@
+.list {
+	height: 99%;
+	border: black solid 1px;
+	margin: 0%;
+	overflow-x: hidden;
+}
+.mainPage {
+	width: 84%;
+}
+::-webkit-scrollbar {
+	display: none;
+}
+.css-1nrlq1o-MuiFormControl-root {
+	display: flex;
+	width: 100%;
+}
+.css-q4j4f1-MuiButtonGroup-root .MuiButtonGroup-grouped {
+	margin: 2%;
+}
+hr {
+	background-color: #4f4a98;
+	height: 3px;
+}
+.Pincode {
+	width: 35%;
+}
+.formInputs {
+	width: 100%;
+}
+.MuiGrid-root {
+	align-items: center;
+}
+.MuiButton-outlined {
+	border-color: #707070 !important;
+	color: #707070 !important;
+	height: 5vh;
+  margin: 2% 0% !important;
+}
+:disabled{
+  background-color: transparent ;
+  /* color: black ; */
+}
+
+/* .canbDashboard {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+} */
+/* .canbHeader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: black solid 1px;
+  /* border-bottom-left-radius: 15%;
+  border-bottom-right-radius: 18%; */
+/* border-radius: 0% 0% 18% 18%;
+  height: 9vh;
+  padding-top: 4%;
+} */
+/* .header {
+  display: flex;
+  width: 100%;
+  border: black solid 1px;
+  height: 9%;
+  justify-content: space-between;
+} */
+/* .navList,
+.navItems {
+  display: flex;
+  border: black 1px;
+  flex-direction: row;
+  align-items: center;
+  width: 80%;
+}
+.navList {
+  justify-content: space-between;
+  padding: 0% 2%;
+  width: 100%;
+  border: 1px solid black;
+} */
+/* .headerDetails {
+  width: 100%;
+} */
+/* .profileDetails {
+  display: flex;
+  justify-content: flex-end;
+  width: 25%;
+  padding: 1% 0%;
+} */
+/* .profileImage {
+  height: 100%;
+  width: 15%;
+  border-radius: 50%;
+  border: black solid 1px;
+  margin: 0% 3%;
+}
+.profileHolder {
+  display: flex;
+  justify-content: flex-end;
+} */
+/* .menuList {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  overflow-x: hidden;
+  margin: 5% 0%;
+} */
+/* .formPage {
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+  height: 90%;
+} */
+/* .formDetails {
+  display: flex;
+  flex-direction: column;
+  border: black 1px solid;
+  align-self: center;
+  justify-content: center;
+  width: 70%;
+  padding: 3% 5%;
+} */
+/* .css-qfz70r-MuiFormGroup-root {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0% 5%;
+} */
+/* .dataHeader {
+  display: flex;
+  justify-content: space-between;
+  margin: 1% 0%;
+  align-items: center;
+} */
+/* .branchField {
+  padding: 0% 5%;
+} */
+/* .branchHeader{
+  margin: 1% 0%;
+  align-items: center;
+  font-size: larger;
+} */
+/* .EditingFields {
+  display: flex;
+  align-items: center;
+} */
+/* .branchDetails {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+} */
+/* .title {
+  width: 100%;
+  font-weight: bolder;
+} */
